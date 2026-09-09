@@ -25,7 +25,7 @@ h1 em { color:var(--teal); font-style:normal; }
 .button { display:inline-flex; align-items:center; justify-content:center; gap:12px; min-height:48px; padding:11px 20px; border:1px solid transparent; border-radius:4px; font:inherit; font-weight:700; cursor:pointer; transition:transform .2s ease,background .2s ease; }
 .button:hover,.button:focus-visible { transform:translateY(-2px); }
 .button-primary { background:var(--teal); color:white; }
-.button-primary:hover,.button-primary:focus-visible { background:#0c5553; }
+.button-primary:hover,.button-primary:focus-visible { background:#093a38; }
 .button-secondary { border-color:var(--line); color:var(--ink); }
 .button-secondary:hover,.button-secondary:focus-visible { background:var(--cream); }
 .hero-profile { position:relative; max-width:420px; justify-self:center; }
